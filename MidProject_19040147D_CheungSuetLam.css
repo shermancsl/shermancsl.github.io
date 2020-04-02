@@ -1,5 +1,5 @@
 h1 {
-	color:#ffff99;
+	color:#990099;
 	text-shadow: 1px 1px 3px black, 0 0 25px blue, 0 0 5px black;
 	padding-top: 20px;
 	text-align: center;
@@ -170,7 +170,7 @@ h2 {
 
 .col-md-8 {
 	margin: auto;
-	color:#ffff99;
+	color:#990099;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	background-color: #e6f7ff;
 	text-align: justify;
@@ -191,7 +191,7 @@ h2 {
  
 .in {
 	padding: 10px;
-	color:#ffff99;
+	color:#990099;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 20px; 
