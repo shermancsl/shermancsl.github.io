@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<form>
+		<strong>Enter the passcode to see the content:</strong>
+		<input id="pwd" type="text" name="pwd" />
+	</form>
+	<div id="content" style="display:none;">
 <html>
    <head>
 	  <title>Cheung Suet Lam's homepage</title>
@@ -261,3 +266,11 @@
 		</footer>
 	</body>
 </html>	
+</div>
+<script>
+    $("#pwd").keyup(function() {
+        if ($('#pwd').val() == "0725"){
+            $('#content').show('slow');
+        }
+    });
+</script>
