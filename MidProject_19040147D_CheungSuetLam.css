@@ -3,7 +3,7 @@ h1 {
 	text-shadow: 1px 1px 3px black, 0 0 25px blue, 0 0 5px black;
 	padding-top: 20px;
 	text-align: center;
-	font-family: Impact, Charcoal, sans-serif;
+	font-family: 'Peralta';
 }
 
 #Education img:hover {
@@ -185,7 +185,7 @@ h2 {
     height: 100%;
   }
  
- #demo {
+div #hiking {
 	 padding-bottom:20px;
  }
  
@@ -222,6 +222,7 @@ footer{
 		margin-left:200px;
 		margin-right:-300px;
 	}
+	
 	
 	#AboutMe div .col-md-8 {
 		padding:10px;
